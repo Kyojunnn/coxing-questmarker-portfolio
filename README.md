@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="AR 캐릭터 선택 인터페이스" src="https://github.com/user-attachments/assets/f80cd2fc-8b3c-475c-903b-0e3a4479c54a" />
+
 # CO·XING QuestMarker Demo
 
 현실의 물건과 가상 인형을 연결해 XR 장면을 만드는 Unity 기반 프로토타입입니다. Quest 카메라 영상에서 ArUco 마커를 검출하고 마커 ID에 연결된 3D 오브젝트의 위치와 회전을 갱신하는 구조를 사용합니다. CREKI는 CO·XING의 이전 이름입니다.
